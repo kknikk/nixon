@@ -1,0 +1,54 @@
+.ui.mini.flag.image{
+  width:15px;
+}
+
+.ui.top.inverted.menu {
+  font-size: 14px;
+}
+
+.ui.borderless.middle.menu{
+  box-shadow: none;
+  border: none;
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
+
+.ui.small.middle.icon.input{
+  border: black !important;
+}
+
+.ui.dropdown.middle.item{
+  margin:25px;
+}
+
+.middle.item{
+  margin:25px;
+}
+
+.ui.middle.icon.input{
+  margin-right: 50px;
+  border-color: black;
+  border: thin;
+}
+
+.ui.center.aligned.shop.segment{
+  border: none;
+  box-shadow: none;
+}
+
+.red.item{
+  background-color: #d54d4d !important;
+}
+.grey.text.item{
+  color: #acb1b4;
+  font-size: 11px;
+}
+
+.black.text.item{
+  color: black;
+  font-size: 12px;
+}
+
+body{
+  font-family: 'Montserrat';
+}
